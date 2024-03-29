@@ -10,8 +10,8 @@
         http://www.liquibase.org/xml/ns/pro http://www.liquibase.org/xml/ns/pro/liquibase-pro-latest.xsd">
     <changeSet id="3" author="pytke2756" context="dev">
         <insert tableName="important">
-            <column name="id" value="2"/>
-            <column name="name" value="dev-name"/>
+            <column name="id" value="3"/>
+            <column name="name" value="dev-name2"/>
         </insert>
     </changeSet>
 </databaseChangeLog>
